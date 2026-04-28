@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CertificateUploaderApplication<certificateuploader>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.certificateuploader.CertificateUploaderApplication",
+            "projectName": "certificateuploader",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
